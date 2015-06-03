@@ -1,0 +1,1 @@
+WordCount does what its name implies. Type wc followed by the file you want counted. E.g wc file. It'll display 3 numbers: lines, words, characters
