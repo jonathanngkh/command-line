@@ -1,0 +1,5 @@
+MoVes files around
+mv file ~/fileDestination
+
+also renames files if destination is not specified, 2nd parameter will be taken as new name
+mv file fileNewName
