@@ -1,0 +1,8 @@
+grep acts as a wildcard that is able to look inside files for a specific search term
+it takes two parameters, the search term followed by what files you want to search through
+grep acts grep
+
+grep can also search through information passed through it with a pipe
+find ~ -name *.txt -print | grep README
+the above command will find all files and print only those filesnames that include 'README 
+
